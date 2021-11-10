@@ -1,7 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
+
     <string name="Monserrate">Monserrate</string>
     <string name="Descripcion">"El Cerro de Monserrate es un simbolo cultural de la cuidad de bogota Esta ubicada a mas de 3150 metro de altura desde la capital. Para subir el ceero d e monserrate se puede hacer a traves del telesferico o por un funcionar no obstante tambien se ppuede subir caminando por un sendero,AL subir monserrate se encuentra una vista de toda la cuidad, y asi mismo el santuario "</string>
-
-
 </resources>
